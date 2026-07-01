@@ -1,4 +1,4 @@
-📊 Excel CA Dashboard Project
+📊 Excel  Dashboard Project
 
 This repository contains an interactive Excel-based analytics dashboard designed to visualize key business performance metrics. The dashboard consolidates multiple data sources into easy-to-read visual reports for sales, profit, customer insights, and category-wise performance.
 
